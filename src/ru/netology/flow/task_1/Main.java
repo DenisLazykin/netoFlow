@@ -1,4 +1,4 @@
-package ru.netology.flow;
+package ru.netology.flow.task_1;
 
 import java.io.File;
 import java.io.FileWriter;
